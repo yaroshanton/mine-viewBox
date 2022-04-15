@@ -1,4 +1,4 @@
-const inputLink = document.querySelector('.input-text');
+const inputLink = document.querySelector('.input-text'); 
 const imageLink = document.querySelector('.image');
 
 inputLink.addEventListener('input', (event) => {
