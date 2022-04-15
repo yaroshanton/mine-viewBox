@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.container input {
+  width: 240px;
+  height: 20px;
+  margin-bottom: 10px;
+}
+
+.container img {
+  width: 1370px;
+  height: 1170px;
+}
